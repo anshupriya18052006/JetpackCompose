@@ -1,8 +1,5 @@
-package com.example.jetpackcomposemissionandroid.androidbasics
+package com.example.jetpackcomposemissionandroid.androidbasics.c1_activitylifecycles
 
-
-
-import android.os.Bundle
 
 //
 //override fun onCreate(savedInstanceState: Bundle?) {
